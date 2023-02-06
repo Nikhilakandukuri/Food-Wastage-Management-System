@@ -9,8 +9,6 @@ So that we create a application to donate that extra food to poor people or near
 # PROPOSED SYSTEM
 This proposed system will helps to reduce the food wastage. This project helps in food redistribution which is an enormously successful social innovation that tackles food waste and food poverty. Here we provides direct contact between donor and needy people which saves A lot of time. Firstly donor will raise a request about the food quantity details, which stores the data in database and this information can be accessed by needy people. By this way we can reduce food wastage problem.
 
-#System architecture
-![Uploading ss.png…]()
 
 # DESIGN   
 ** Use case diagram :
